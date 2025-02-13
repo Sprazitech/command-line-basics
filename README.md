@@ -23,4 +23,4 @@ mkdir week1 week2
 To be sure my subfolders were created in my projects folder using this prompt
 ls
 This was how my output looked like after completing task 1.
-![Alt Text](photos/task .jpg)
+![Alt Text](photos/task 1.jpg)
