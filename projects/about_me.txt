@@ -1,0 +1,4 @@
+I am learning Node.js because it is a powerful and efficient runtime for building scalable web applications. 
+Its non-blocking architecture makes it great for handling real-time applications, and I want to deepen my 
+backend development skills. Mastering Node.js will continue to help me build full-stack applications and become a 
+more versatile developer.
