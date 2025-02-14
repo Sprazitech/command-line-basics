@@ -8,20 +8,20 @@ Inside projects, create subfolders: week1, week2.
 **Solution**
 
 Go to your terminal, using GitBash or Linux. For this assignment I am using GitBash.
-i. Create a directory and create a folder named "Projects" using
+i. Create a directory and create a folder named "Projects" using.
 
 **mkdir projects**
 
 ii. To create subfolders: week1, week2, inside "projects" folder.
-Firstly, I made sure i was in my "project" folder using this prompt
+Firstly, I made sure i was in my "project" folder using this prompt.
 
 **cd projects**
 
-Secondly, I then created my subfolders: week1, week2 using this prompt
+Secondly, I then created my subfolders: week1, week2 using this prompt.
 
 **mkdir week1 week2**
 
-To be sure my subfolders were created in my projects folder using this prompt
+To be sure my subfolders were created in my projects folder using this prompt.
 
 **ls**
 
@@ -39,7 +39,7 @@ Delete the original hello.txt from week1.
 
 **Solution**
 
-i. To create an empty file named "hello.txt" in week1, first, I went to my week1 subfolder using
+i. To create an empty file named "hello.txt" in week1, first, I went to my week1 subfolder using.
 
 **cd week1**
 
@@ -50,7 +50,7 @@ Then, I created empty file named hello.txt in week1 subfolder using.
 I prompted **ls** to show my hello.txt in week1 subfolder.
 
 
-ii. To copy "hello.txt" to week2 and rename it to "hello_copy.txt". Firstly, I went back to my "projects" folder that contains subfolders week1, week2 using this prompt
+ii. To copy "hello.txt" to week2 and rename it to "hello_copy.txt". Firstly, I went back to my "projects" folder that contains subfolders week1, week2 using this prompt.
 
 **cd ..**
 
@@ -58,7 +58,7 @@ To copy "hello.txt" to week2 and rename it to "hello_copy.txt", I used this prom
 
 **cp week1/hello.txt week2/hello_copy.txt**
 
-I "cd" into my week2 subfolder and "ls" to view the renamed hello_copy.txt
+I "cd" into my week2 subfolder and "ls" to view the renamed hello_copy.txt.
 
 
 iii. To delete the original "hello.txt" file from week1, I "cd .."back to projects folder and "cd" into subfolder week1. I deleted the hello.txt file using this prompt.
@@ -81,7 +81,7 @@ i. I created a text file "about_me.txt" in my projects folder using this prompt.
 
 I "ls" to see if "about _me.txt" file was created. Then i "cd" into my "about_me.txt" file.
 
-To write a short Paragraph in my text file using command line text editor, i used this prompt
+To write a short Paragraph in my text file using command line text editor, i used this prompt.
 
 **vim about_me.txt**
 
